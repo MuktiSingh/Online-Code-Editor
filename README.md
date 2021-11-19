@@ -1,4 +1,4 @@
-# Recipe-App
+# Online Code Editor
 <h3> 
   Online Code editor for HTML, CSS, JavaScript.
   <br>
